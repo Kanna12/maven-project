@@ -1,4 +1,4 @@
-Welcome to maven!!
+welcome to maven!!
 Welcome to the world!!
 # maven-project
 heLLO
